@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://www.toolsarena.online/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Important Pages -->
+  <url><loc>https://www.toolsarena.online/about-us</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/contact-us</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/privacy-policy</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.toolsarena.online/terms-conditions</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.toolsarena.online/disclaimer</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+
+  <!-- All Tools Page -->
+  <url><loc>https://www.toolsarena.online/all-tools</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+
+  <!-- Individual Tools -->
+  <url><loc>https://www.toolsarena.online/tools/youtube-thumbnail-preview</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/youtube-timestamp-link-generator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/youtube-title-generator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/youtube-tag-extractor</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/image-compressor</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/background-remover</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/image-resizer-cropper</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/word-counter</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/case-converter</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/remove-line-breaks-extra-spaces-tool</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/text-to-speech-converter</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/qr-code-generator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/password-generator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/color-palette-generator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/favicon-generator-logo-resizer</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/image-to-pdf-converter</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/pdf-page-number-adder</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/merge-pdf</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/compress-pdf</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/pdf-to-image-converter</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/pdf-unlock-protect-tool</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/open-graph-social-preview-tool</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/seo-meta-tag-extractor</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/bmi-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/loan-emi-sip-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/sip-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/compound-interest-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/gst-calculator-tax-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/investment-return-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/mortgage-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/income-tax-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/retirement-calculator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/instagram-bio-text-formatter</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.toolsarena.online/tools/utm-link-generator</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+</urlset>
